@@ -1,4 +1,4 @@
-	ALL COSTS IN THB
+ALL COSTS IN THB
 
 Day 1:
 Air Ticket
@@ -12,6 +12,7 @@ Beer
 SIM Card
 Dinner
 Seven Eleven
+Beer
 7,730
 200
 1,000
@@ -19,10 +20,11 @@ Seven Eleven
 90
 150
 880
-290
+65
 499
 100
 10
+290
 
 Day 2:
 Lunch
@@ -31,6 +33,7 @@ Dinner
 Beer
 Ping pong
 Taxi
+Beer
 Club
 Water
 Hershey Bar
@@ -38,9 +41,10 @@ Bus Ticket
 70
 31
 200
-70
+50
 440
 50
+70
 100
 20 + 15
 29
@@ -70,15 +74,17 @@ Bed
 Ice Cream
 Lunch
 Ice Tea
+Beer
 9800
 180
 10
 140
-60
+120
 125
 77
 80
 20
+60
 
 Day 5:
 Lunch
@@ -110,13 +116,19 @@ Seven Eleven
 Dinner
 Sam's Dinner
 Beer
+Beer
+Beer
 200
 10
 100
 200
+60
+70
 70
 
 Day 8:
+Water
+Water
 Water
 Breakfast
 Massage
@@ -124,26 +136,46 @@ SIM
 Room
 Dinner
 Beer
+Beer
+Beer
+Water
+Beer
 Taxi
+Water
 Entry
-30
+Water
+Water
+10
+10
+10
 180
 300
 200
 400
 120
+45
+66
+90
+20
 150
 66
+40
 200
+80
+30
 
 Day 9:
 Lunch
 Dinner
 Taxi
 Beer
+Beer
+Beer
 130
 300
 1000
+60
+40
 70
 
 Day 10:
@@ -152,20 +184,24 @@ Gatorade
 Lunch
 Room Bans
 Dinner
-50
+Water
+10
 35
 200
 800
 80
+50
 
 Day 11:
 Room
 Lunch
 Dinner
 Drinks
+Drinks
 600
 190
 320
+64
 80
 
 Day 12:
@@ -177,6 +213,7 @@ Pizza
 Laundry
 Dinner
 Beer
+Beer
 Room
 1380
 60
@@ -185,6 +222,7 @@ Room
 80
 240
 130
+66
 47
 600
 
@@ -196,14 +234,20 @@ Power Adapter
 Dinner
 Withdrawal Fee
 Beer
+Beer
+Beer
 Juice
+Water
 400
 160
-20
+15
 95
 250
 180
+66
 120
+120
+20
 20
 
 Day 14:
@@ -216,19 +260,23 @@ Dorm 2 Nights
 Deposit
 Lunch
 Seven Eleven
+Taxi
 Dinner
+Taxi
 Beer
 Shots
 140
 120
 300
 30
-40
+200
 520
 300
 150
 37
+30
 450
+40
 50
 200
 
@@ -238,19 +286,29 @@ Pad Thai
 Kayaking
 Bus to Airport
 Slippers
+Water
 Chocolate
 Cheeseburger
 Beer
 Chicken Noodle Soup
-20
+Beer
+Beer
+Water
+Beer
+28
 50
 450 (credit card)
 150
 200
+10
 25
 82
 50
 40
+70
+100
+20
+50
 
 Day 16:
 Visa Overstay Fee
@@ -259,4 +317,3 @@ Food
 95
 
 Total: THB 41,309 or Rs. 77,050
-
